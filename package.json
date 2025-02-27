@@ -1,5 +1,5 @@
 {
-  "name": "@echristian/binman",
+  "name": "binman",
   "version": "0.0.1",
   "description": "Binary manager tool",
   "keywords": [],
@@ -18,7 +18,7 @@
     }
   },
   "bin": {
-    "@echristian/binman": "./dist/cli.js"
+    "binman": "./dist/cli.js"
   },
   "files": [
     "dist"
