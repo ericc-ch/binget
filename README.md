@@ -1,9 +1,6 @@
-# pkg-placeholder
+# binman
 
-_description_
-
-> **Note**:
-> Replace `pkg-placeholder` and `_description_` globally to use this template.
+Binary manager tool
 
 ## License
 
